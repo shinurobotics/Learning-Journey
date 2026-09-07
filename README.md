@@ -49,11 +49,20 @@ My goal is to build a strong foundation in software development, AI, robotics, a
 - AI Algorithms
 - AI in Action
 
-# Artificial Intelligence Jobs & Skills
+# ✅ Artificial Intelligence Jobs & Skills
+- AI Fundamentals
 - AI Career Pathways
-- Industry Skills
-- AI Tools and Technologies
+- AI Industry Skills
+- AI Tools & Technologies
+- Python & Programming Skills
+- Data Skills
+- Machine Learning Basics
+- Generative AI
+- AI Ethics & Responsible AI
+- AI Project Skills
+- AI Portfolio & GitHub
 - Professional Development
+- Career Preparation
 
 # The Next Frontier of Artificial Intelligence
 - Emerging AI Technologies
