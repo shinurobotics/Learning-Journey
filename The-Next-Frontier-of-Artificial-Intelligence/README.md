@@ -5,16 +5,14 @@ This repository contains my notes, learning progress and activities while explor
 I created this repository to understand how Artificial Intelligence is evolving and how emerging AI technologies may influence industries, society and future careers. The goal is to expand my understanding of AI developments, explore future possibilities, and connect AI knowledge with my interests in software development, robotics and engineering.
 
 # Topics Covered
-- The Evolution of Artificial Intelligence
-- Emerging AI Technologies
-- Future AI Trends
-- Advanced AI Applications
-- AI Innovation
-- AI in Different Industries
-- Opportunities and Challenges of AI
-- The Future of Work and AI
-- Responsible AI Development
-- The Potential Impact of AI on Society
+- The Early Stages of Al
+- The Present: Al Applications
+- Towards Artificial General Intelligence (AGI)
+- The Concept of Artificial Superintelligence (ASI)
+- Cutting-edge Technologies in Al
+- Ethical and Societal Challenges
+- Technical Challenges in Al Development
+- Preparing for an Al-Driven Future
 
 # Skills Developed
 - Understanding emerging AI developments
