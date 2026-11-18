@@ -29,8 +29,8 @@ for line in InputFile:
     print(tempParticipant)
     InputList.append(tempParticipant)
     print(InputList)
-     #"Ronaldo 41 Portugal \n".strip() -> "Ronaldo 41 Portugal"
-     #"Ronaldo 41 Portugal".split() -> ["Ronaldo","41","Portugal"]
+     #strip() removes unnecessary space at beginning and end
+     #title() make 1st letter of code capitalized
 InputFile.close()
 
 Age = {}
